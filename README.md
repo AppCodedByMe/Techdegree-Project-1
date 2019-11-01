@@ -1,2 +1,1 @@
-# Techdegree Project 1
- Portfolio Project
+# Techdegree Project 1 - Portfolio Project
